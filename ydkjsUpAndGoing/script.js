@@ -16,6 +16,7 @@ dog: 'husky',
 }
 console.log(kenneth)
 
+// continuation 08192018
 
 
 //G's code goes here
